@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "E5D3C7F3-B885-44BB-BD7E-838F2E7ADF82",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:",
+        "identifier" : "DeviceSDKTests",
+        "name" : "DeviceSDKTests"
+      }
+    }
+  ],
+  "version" : 1
+}
